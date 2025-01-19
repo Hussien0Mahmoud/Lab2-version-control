@@ -24,6 +24,7 @@ A simple reference to a commit, often used for quick or temporary tagging.
 -Created faster and consumes less space.
 -Suitable for internal or informal purposes.
 ex)-> git tag v1.0.0
+
 ------------------------------------------------------------------------------
 ==> When to use Rebase ??
 1- To Keep a Clean, Linear Commit History
