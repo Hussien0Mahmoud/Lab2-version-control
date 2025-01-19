@@ -11,10 +11,12 @@ git push origin --delete  dev
 
 ------------------------------------------------
 ==> Annotated tags vs Lightweight Tags ?
+
 ** Annotated tags: 
 Used for creating a detailed, permanent record
 -Stored as a full Git object in the repository.
 -Suitable for official releases or milestones.
+
 ex)->  git tag -a v1.0.0 -m " stable release"
 
 **  Lightweight Tags:
